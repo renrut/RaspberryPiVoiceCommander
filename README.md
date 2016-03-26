@@ -5,7 +5,7 @@ A voice commander for the raspberry pi.
 This is still a work in progress...
 
 #Motive
-I created this to automate a few things in my dorm room. I tried to make it as modular as possible so that scripts are easy to write.
+I created this to automate a few things in my room. I tried to make it as modular as possible so that scripts are easy to write.
 
 #Dependencies
 This requires several python dependencies:
