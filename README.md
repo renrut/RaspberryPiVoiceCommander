@@ -19,7 +19,7 @@ It also requires you to have lirc installed on your pi. I recommend the followin
 http://alexba.in/blog/2013/01/06/setting-up-lirc-on-the-raspberrypi/
 
 #Setting up wit
-This project uses wit.ai to define an intent. There is plenty of documentation available on their website for python projects. All you need to do is add your token to the tok var on the main project.
+This project uses wit.ai to define intents for scripts. There is plenty of documentation available on their website for python projects. All you need to do is add your token to the tok var on the main project.
 
 #Creating your own scripts
 
