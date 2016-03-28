@@ -4,6 +4,7 @@ import sys
 import os
 import tts
 import jsonparser
+import pyaudio
 import speech_recognition as sr
 import power_television
 import power_lights
